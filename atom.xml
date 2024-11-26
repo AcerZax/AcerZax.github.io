@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>X_X</title>
+  
+  <subtitle>A photographer</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-11-25T16:02:33.969Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第二篇文章</title>
+    <link href="http://example.com/2024/11/25/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://example.com/2024/11/25/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2024-11-25T15:32:11.000Z</published>
+    <updated>2024-11-25T16:02:33.969Z</updated>
+    
+    <content type="html"><![CDATA[<p>hhhhhhhhhhh</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;hhhhhhhhhhh&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Beginning</title>
+    <link href="http://example.com/2024/11/25/Beginning/"/>
+    <id>http://example.com/2024/11/25/Beginning/</id>
+    <published>2024-11-25T10:46:59.000Z</published>
+    <updated>2024-11-25T11:11:00.746Z</updated>
+    
+    <content type="html"><![CDATA[<p>诞生于24&#x2F;11&#x2F;25 18:44</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;诞生于24&amp;#x2F;11&amp;#x2F;25 18:44&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
