@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>AcerZax</name>
     
   </author>
   
@@ -23,13 +23,13 @@
     <published>2024-11-25T10:46:59.000Z</published>
     <updated>2024-11-25T11:11:00.746Z</updated>
     
-    <content type="html"><![CDATA[<p>诞生于24&#x2F;11&#x2F;25 18:44</p>]]></content>
-    
     
       
       
-    <summary type="html">&lt;p&gt;诞生于24&amp;#x2F;11&amp;#x2F;25 18:44&lt;/p&gt;
-</summary>
+        
+        
+    <summary type="html">&lt;p&gt;诞生于24&amp;#x2F;11&amp;#x2F;25</summary>
+        
       
     
     
